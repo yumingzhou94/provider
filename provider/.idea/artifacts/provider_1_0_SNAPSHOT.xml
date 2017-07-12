@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="provider-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/../provider/out/artifacts/provider_1_0_SNAPSHOT</output-path>
+    <root id="archive" name="provider-1.0-SNAPSHOT.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/../provider/src/main/java/com/yu/service/TestService.java" />
+    </root>
+  </artifact>
+</component>
